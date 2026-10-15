@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "RiDir (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "RiDir (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
